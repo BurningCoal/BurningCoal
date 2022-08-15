@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BurningCoal
 - 👀 I’m interested in network engineering,cyber security
-- 🌱 I'm learning Unix shell,C
+- 🌱 I'm learning Unix shell,C,Python 3.x
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
